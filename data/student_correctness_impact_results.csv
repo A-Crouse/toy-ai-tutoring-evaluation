@@ -1,0 +1,10 @@
+model,approach,correct_mean_rating,incorrect_mean_rating,rating_difference,correct_quality_rate,incorrect_quality_rate,quality_difference,correct_n,incorrect_n
+claude_haiku,zero_shot,2.95,1.3,1.6500000000000001,0.6,0.0,0.6,10,10
+gpt4o_mini,zero_shot,3.2,1.6,1.6,0.7,0.1,0.6,10,10
+phi3_mini,zero_shot,2.55,1.35,1.1999999999999997,0.4,0.0,0.4,10,10
+claude_haiku,few_shot,2.8,3.0,-0.20000000000000018,0.5,0.7,-0.19999999999999996,10,10
+gpt4o_mini,few_shot,3.15,4.05,-0.8999999999999999,0.5,0.9,-0.4,10,10
+phi3_mini,few_shot,2.5555555555555554,2.8,-0.24444444444444446,0.4444444444444444,0.5,-0.05555555555555558,9,10
+claude_haiku,cot,2.4,1.75,0.6499999999999999,0.4,0.1,0.30000000000000004,10,10
+gpt4o_mini,cot,2.5,2.15,0.3500000000000001,0.4,0.4,0.0,10,10
+phi3_mini,cot,2.7,1.7,1.0000000000000002,0.5,0.3,0.2,10,10
