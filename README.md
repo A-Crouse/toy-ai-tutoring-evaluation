@@ -12,7 +12,7 @@
 | Few-shot Claude Haiku | 2.90/5.0 | 60% | 70% quality rate |
 | Zero-shot GPT-4o Mini | 2.40/5.0 | 40% | 10% quality rate |
 
-### 🚀 Critical Discovery
+### The Takeaway
 **Few-shot GPT-4o Mini performs BETTER when students give wrong answers** - achieving 90% high-quality responses with incorrect student answers vs only 50% with correct answers. This makes it uniquely valuable for real tutoring scenarios where guidance and correction are needed most.
 
 ## 📊 Methodology
@@ -23,7 +23,7 @@
 - **Quality Metric**: Rating ≥ 3.0 out of 5.0 (pedagogically sound tutoring)
 - **Student Baseline**: 50% gave correct answers initially
 
-## 📈 Key Visualizations
+## 📈 Visualizations and Figures
 
 ### Answer Correctness Performance Heatmap
 ![Answer Correctness Heatmap](visualizations/answer_correctness_heatmap.png)
