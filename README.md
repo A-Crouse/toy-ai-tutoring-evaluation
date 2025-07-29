@@ -90,14 +90,6 @@ toy-ai-tutoring-evaluation/
 - **Zero-shot Issues**: Occasional hallucination of non-existent conversation elements
 - **Few-shot Strengths**: Optimal balance of brevity, empathy, and pedagogical appropriateness
 
-## 💰 Cost-Effectiveness Analysis
-
-| Approach + Model | Cost per Query | Quality Rate | Cost-Effectiveness Ratio |
-|------------------|----------------|--------------|-------------------------|
-| Few-shot Phi-3 Mini | $0.0001 | 47% | 26,244 |
-| **Few-shot GPT-4o Mini** | **$0.0002** | **70%** | **22,054** |
-| Zero-shot Phi-3 Mini | $0.0001 | 20% | 23,688 |
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -141,31 +133,12 @@ python analysis/accuracy_methodology_explanation.py
 
 This research reveals that **few-shot prompting with GPT-4o Mini represents a significant advancement in AI tutoring systems**, particularly because it excels in corrective tutoring scenarios where students need the most help.
 
-### Publication-Ready Findings
-- Novel discovery of improved performance with incorrect student responses
-- Comprehensive methodology comparing multiple models and approaches
-- Practical implications for educational technology deployment
-- Reproducible analysis with complete data and code
-
-## 📄 Citation
-
-If you use this work in your research, please cite:
-
-```
-Toy AI Tutoring Evaluation (2025)
-Few-shot Prompting Excellence in Mathematics Tutoring: 
-A Comparative Study of Language Model Approaches
-GitHub: https://github.com/[username]/toy-ai-tutoring-evaluation
-```
-
 ## 🤝 Contributing
 
-This repository contains a complete research evaluation. For questions or collaboration opportunities, please open an issue or contact the research team.
+For questions or collaboration opportunities, please open an issue or contact the research team.
 
 ## 📝 License
 
 This research is shared for educational and academic purposes. All data and analysis scripts are included for reproducibility.
 
 ---
-
-**Bottom Line**: Few-shot GPT-4o Mini is uniquely effective for AI tutoring applications, achieving 90% high-quality responses when students need help most (incorrect answers), making it the optimal choice for educational technology deployment.
