@@ -8,7 +8,7 @@ import json
 import os
 
 # Your OpenRouter configuration
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = 'REDACTED'
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # Your selected models
